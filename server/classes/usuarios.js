@@ -1,7 +1,6 @@
 class Usuarios {
     constructor(){
         this.personas = [];
-
     }   
     
     agregarPersona(id, nombre, sala){
